@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24204" started-at="2018-05-16T13:09:46Z" finished-at="2018-05-16T13:10:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24204" started-at="2018-05-16T13:09:46Z" finished-at="2018-05-16T13:10:10Z">
+      <class name="co.crm.loginpageTest.FormsTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:co.crm.loginpageTest.FormsTest@6767c1fc]" name="beforeTest" is-config="true" duration-ms="9322" started-at="2018-05-16T18:39:46Z" finished-at="2018-05-16T18:39:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:co.crm.loginpageTest.FormsTest@6767c1fc]" name="f" duration-ms="8295" started-at="2018-05-16T18:39:55Z" finished-at="2018-05-16T18:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f1()[pri:1, instance:co.crm.loginpageTest.FormsTest@6767c1fc]" name="f1" duration-ms="6498" started-at="2018-05-16T18:40:04Z" finished-at="2018-05-16T18:40:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:co.crm.loginpageTest.FormsTest@6767c1fc]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-05-16T18:40:10Z" finished-at="2018-05-16T18:40:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- co.crm.loginpageTest.FormsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
